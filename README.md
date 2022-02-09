@@ -29,3 +29,6 @@ Binary:
 - linear decision boundry
 - the range of the values has to be between 0 and 1 
 - it uses the cost function called sigmoid curve/function 
+- sigmoid function formula 
+
+                  f(n) = \frac{1}{1+e}
