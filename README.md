@@ -7,7 +7,9 @@ LR predicts the binary outcome of a indepenent variable. It is named as *logisti
 
 Binary:
 spam or not-spam
+
 benign or malign
+
 fraudulent or genuine 
 
 
