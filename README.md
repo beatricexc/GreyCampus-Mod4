@@ -7,9 +7,9 @@ LR predicts the binary outcome of a indepenent variable. It is named as *logisti
 
 Binary:
 
--spam or not-spam
--benign or malign
+- spam or not-spam
+- benign or malign
 - fraudulent or genuine 
 
 
-- decision boundry-decison stomp is the diferentiator between the 2 variables
+! decision boundry-decison stomp is the diferentiator between the 2 variables
