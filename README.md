@@ -12,4 +12,20 @@ Binary:
 - fraudulent or genuine 
 
 
-! decision boundry-decison stomp is the diferentiator between the 2 variables
+! decision boundry or decison stomp is the diferentiator between the 2 variables. it is in the shape of S (sigmoid curve) backed by the sigmoid function. The purpose of the sigmoid function is to return a probabilistic value.
+
+
+#### Advantages of Logisitc Regression: 
+
+- makes no assumption about dsitributions of classes in feature space 
+- good accuracy
+- resistant of overfitting
+- easily extended to mutliple classes (types of logistic regression : binary 0|1 and multi-linear function eg. cars, boats, bikes)
+- natural probabilistic view of classes
+- quick to train 
+
+
+#### Disadvantages of Logistic Regression: 
+- linear decision boundry
+- the range of the values has to be between 0 and 1 
+- it uses the cost function called sigmoid curve/function 
