@@ -31,4 +31,4 @@ Binary:
 - it uses the cost function called sigmoid curve/function 
 - sigmoid function formula 
 
-                 y = $1/ {1+e}$^x
+                 y = 1/ 1+e^x
