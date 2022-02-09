@@ -8,7 +8,7 @@ LR predicts the binary outcome of a indepenent variable. It is named as *logisti
 Binary:
 
 - spam or not-spam
-- benign or malign
+- benign or malignant
 - fraudulent or genuine 
 
 
@@ -32,3 +32,22 @@ Binary:
 - sigmoid function formula 
 
                  y = 1/ 1+e - ^x
+
+**Assumptions** 
+- outcome is binary 
+- there is no influential value
+- there is no inter-correlation
+
+##### What is the Logit Function? 
+
+**Logit Function** is simply the logarithm of the odds: log(x) = log(x/1-x))
+
+The value of the logit function heads towards infinity as p approaches 1 and towards negative infinity as it approaches 0
+
+
+### Decision Trees
+Are used to visually and explicitly represent decisions and decision making. 
+
+- a decision tree is built upside down with its root at the top.
+- it has internal nodes
+- and branches (edges)
