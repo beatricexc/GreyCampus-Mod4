@@ -51,4 +51,5 @@ Are used to visually and explicitly represent decisions and decision making.
 - a decision tree is built upside down with its root at the top.
 - it has internal nodes
 - and branches (edges)
+- leafs, also knows as terminals
 - prunning = when one side of the tree is heavy (biased) we cut off branches to ensure that the tree is symetrical 
